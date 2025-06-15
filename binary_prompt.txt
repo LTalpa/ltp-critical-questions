@@ -1,0 +1,11 @@
+You must evaluate whether a critical question is valid in relation to a given argumentative intervention. A valid critical question is one that diminishes the acceptability of an argument by unmasking its blind spots, assumptions, or weaknesses.
+
+Intervention: {intervention}
+
+Critical Question: {cq}
+
+**Final Answer:** Choose ONE label only:
+- **GOOD**: The answer to this question challenges one of the arguments in the text
+- **BAD**: The question is not challenging arguments from the text
+Answer:
+

@@ -1,0 +1,22 @@
+You must evaluate whether a critical question is valid in relation to a given argumentative intervention using argumentation schemes analysis. A valid critical question challenges the argument's **schemes**, **premises**, **conclusion**, **warrant**, or **inference** patterns by exposing weaknesses through **dialectical** examination.
+
+**Key Concepts:**
+- **Argumentation schemes** are **defeasible** **patterns** of reasoning (e.g., **expert-opinion**, **cause-effect**, **analogy**, **consequences**, **classification**, **practical-reasoning**, **sign**)
+- **Critical-questions** test these **presumptive** inferences by challenging **topoi** and shifting **burden-of-proof**
+- Questions can target premises, **undercutting** the inferential link, or attacking conclusions
+
+**Intervention:** {intervention}
+
+**Critical Question:** {cq}
+
+**Analysis Process:**
+1. Identify the argumentation scheme(s) present in the intervention
+2. Determine what aspect the critical question targets (premises, warrant, conclusion, or inference)
+3. Assess whether the question exposes genuine vulnerabilities in the argument structure
+
+**Final Answer:** Choose ONE label only:
+- **Useful**: The answer to this question challenges one of the arguments in the text by targeting a genuine weakness in the argumentation scheme
+- **Unhelpful**: The question is structurally valid but unlikely to significantly challenge the argument's core reasoning pattern  
+- **Invalid**: This question fails to target any meaningful aspect of the argumentation scheme and cannot be used to challenge the arguments
+
+Answer:
