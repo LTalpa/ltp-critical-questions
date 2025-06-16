@@ -1,0 +1,16 @@
+Generate three critical questions that examine the validity of this argument:
+
+"{intervention}"
+
+Follow the following conventions:
+
+- Be concise and professional. 
+- For each question individually, describe the step-by-step thought process that resulted in the question.
+- Start the thought processes with "REASONING:" and the questions with "QUESTION:", in that order. 
+- Do not use italics or bold to emphasize words.
+- Use one line per question.
+- Do not introduce new information, but inspect the reasoning given in the statement.
+- The questions should be about the reasoning quality of the statement, not the truthfulness of the information supporting the argument.
+
+Below are some examples of arguments and the responses you should give:
+{examples}

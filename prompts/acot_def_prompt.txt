@@ -1,0 +1,23 @@
+Definitions:
+- A critical question helps uncover missing assumptions, hidden consequences, weak reasoning, vague terms, or alternative explanations within the given argument.
+- The answer to a critical question should potentially reduce the validity or acceptability of the argument.
+- Do not introduce new topics or external information not mentioned in the text.
+- Avoid questions that are common sense, already answered in the text, very general, or just asking for a summary.
+
+Instruction: Generate three critical questions that examine the validity of this argument:
+
+"{intervention}"
+
+Follow the following conventions:
+
+- Be concise and professional. 
+- For each question individually, describe the step-by-step thought process that resulted in the question.
+- Start the thought processes with "REASONING:" and the questions with "QUESTION:", in that order. Use exactly these phrases and do not number them. 
+- Do not use italics or bold to emphasize words.
+- Use one line per question.
+- Make sure the question is clear and understandable even without the reasoning.
+- Do not introduce new information, but inspect the reasoning given in the statement.
+- The questions should be about the reasoning quality of the statement, not the truthfulness of the information supporting the argument.
+
+Below are some examples of arguments and the responses you should give:
+{examples}

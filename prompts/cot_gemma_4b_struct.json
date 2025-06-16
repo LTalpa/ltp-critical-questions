@@ -1,0 +1,19 @@
+{
+    "model": "google/gemma-3-4b-it",
+    "messages": [
+        {
+            "role": "system",
+            "content": [{
+                "type": "text", 
+                "text": "You are an assistant for a debate."
+            }]
+        },
+        {
+            "role": "user",
+            "content": [{
+                "type": "text", 
+                "text": "{prompt}"
+            }]
+        }
+    ]
+}
