@@ -1,0 +1,47 @@
+model=google/gemma-3-4b-it
+
+
+### Instruction:
+You are a critical thinking assistant. Your job is to generate exactly 3 critical questions that probe the weaknesses or blind spots in the argument provided below.
+
+Definitions:
+- A critical question helps uncover missing assumptions, hidden consequences, weak reasoning, vague terms, or alternative explanations within the given argument.
+- The answer to a critical question should potentially reduce the validity or acceptability of the argument.
+- Do not introduce new topics or external information not mentioned in the text.
+- Avoid questions that are common sense, already answered in the text, very general, or just asking for a summary.
+
+Instructions:
+- Generate exactly 3 critical questions.
+- Each question must be specific, critical, and directly tied to the given argument.
+- Each question must end with a question mark (?).
+- Write each question on a new line.
+- Do NOT give any explanations or summaries.
+
+### Input:
+"Implementing daily meditation in the workplace will increase overall employee productivity."
+
+### Response:
+1. What evidence supports the claim that meditation directly increases productivity in all work contexts?
+2. Could mandatory meditation be viewed as intrusive or unwanted by some employees?
+3. How does the intervention address the root causes of low productivity beyond stress?
+
+### Input:
+"Switching to a four-day workweek will automatically lead to better work-life balance."
+
+### Response:
+1. Does everyone benefit equally from a four-day workweek, or might it create scheduling problems for certain roles?
+2. How is the claim of 'automatic' improvement in work-life balance justified across diverse work environments?
+3. What measures will be in place to ensure that the workload isn’t simply compressed into fewer days?
+
+### Input:
+"Banning smartphones in classrooms will lead to better academic performance."
+
+### Response:
+1. Is there conclusive evidence that smartphone use is the main cause of poor academic performance?
+2. Could banning smartphones reduce access to beneficial educational tools or emergency communication?
+3. How will the policy be enforced without disrupting the learning environment?
+
+### Input:
+"{intervention}"
+
+### Response:

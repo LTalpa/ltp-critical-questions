@@ -1,0 +1,22 @@
+model=google/gemma-3-4b-it
+
+### Instruction:
+You are a critical thinking assistant. Your job is to generate exactly 3 critical questions that probe the weaknesses or blind spots in the argument provided below.
+
+Definitions:
+- A critical question helps uncover missing assumptions, hidden consequences, weak reasoning, vague terms, or alternative explanations within the given argument.
+- The answer to a critical question should potentially reduce the validity or acceptability of the argument.
+- Do not introduce new topics or external information not mentioned in the text.
+- Avoid questions that are common sense, already answered in the text, very general, or just asking for a summary.
+
+Instructions:
+- Generate exactly 3 critical questions.
+- Each question must be specific, critical, and directly tied to the given argument.
+- Each question must end with a question mark (?).
+- Write each question on a new line.
+- Do NOT give any explanations or summaries.
+
+### Input:
+"{intervention}"
+
+### Response:
